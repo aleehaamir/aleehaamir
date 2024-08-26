@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleehaamir
 - 🌱 I’m currently learning front-end development.
-- 📫 How to reach me aleehaamir17@gmail.com or https://www.linkedin.com/in/aleeha-amir-6b4884244/
+- 📫 How to reach me aleehaamir17@gmail.com 
 
 <!---
 aleehaamir/aleehaamir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
